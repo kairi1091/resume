@@ -6,7 +6,7 @@ title: Portfolio
 私は小さい頃からモノ作りがすきで今もAIやロボットにとても興味があります。今専門学校でAIについて勉強しています。マイコンを使ってクラスメイトと協力して時計をつくったり、TechSeekerハッカソンに参加して、巡回ロボットをつくったりと日々色々なことに挑戦しています。まだまだ勉強中ですがこれからも色々なことに挑戦していきたいと思います。
 ## 実績
 - [TechSeekerハッカソン2024](https://techseeker.jp/hackathon2024/)に参加　
-- [TechSeekerコレクション2024]()に参加
+- [TechSeekerコレクション2024](https://techseeker.jp/hackathon2024/)に参加
 - [株式会社スリーアップテクノロジー](https://3up-tec.jp/)　長期インターンシップ　
 - [小さなロボット博](https://www.city.yao.osaka.jp/0000077335.html)　出展　
 ## スキル
