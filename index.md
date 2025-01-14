@@ -12,9 +12,9 @@ title: Home
 
 ## スキル
 ### プログラミング言語
-- python
-- c++
-- HTML・css
+- Python
+- C++
+- HTML・CSS
 - PHP・MySQL
 
 ### 資格
