@@ -10,7 +10,7 @@ title: Portfolio
 - [株式会社スリーアップテクノロジー](https://3up-tec.jp/)　長期インターンシップ　
 - [小さなロボット博](https://www.city.yao.osaka.jp/0000077335.html)　出展
 
-## スキル　
+## スキル
 #### プログラミング言語
 - python
 - c++
